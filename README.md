@@ -6,6 +6,6 @@ Via React., j'ai conçu une interface utilisateur fluide et intuitive, permettan
 
 Ce projet m'a permis de combiner programmation avec mon intérêt pour la gastronomie japonaise !
 
-![preview](preview_kabuki.png)
+![preview](kabuki.png)
 
 
