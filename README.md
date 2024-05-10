@@ -1,4 +1,4 @@
-[Regarder le site](https://kabukikitchen.netlify.app/)
+[Aller sur le site](https://kabukikitchen.netlify.app/)
 
 Voilà mon deuxième projet personnel en React : la création d'un site de livraison pour un restaurant japonais. 
 
