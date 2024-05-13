@@ -81,7 +81,7 @@ export const menu_list = [
         menu_image: menu_5
     },
     {
-        menu_name: "accompagnements",
+        menu_name: "À côté",
         menu_image: menu_6
     },
     {
@@ -178,21 +178,21 @@ export const food_list = [
         image: side_1,
         price: 9,
         description: "Les gyozas sont de délicieux raviolis saisis puis cuits à l’étouffée.",
-        category: "accompagnants"
+        category: "À côté"
     }, {
         _id: "22",
         name: "Edamame",
         image: side_2,
         price: 5,
         description: "Nos fèves de soja Edamame sont parfaites pour être consommer en apéro.",
-        category: "accompagnements"
+        category: "À côté"
     }, {
         _id: "23",
         name: "Karaage",
         image: side_3,
         price: 7,
         description: "Morceaux de cuisse de poulet plongés dans une marinade de sauce soja.",
-        category: "accompagnements"
+        category: "À côté"
     }, {
         _id: "25",
         name: "Daifuku",
